@@ -1,3 +1,0 @@
-
-I am liking practising GIT. This is the replica of the original file. I am using this file for learning how to check differences
-between this file and staged file version of this file.
